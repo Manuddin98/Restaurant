@@ -1,5 +1,5 @@
 import Layouts from "./components/Layout/Layouts";
-import {BrowserRouter,Routes,Route} from 'react-router-dom'
+import {BrowserRouter,Routes,Route, HashRouter} from 'react-router-dom'
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
@@ -8,7 +8,7 @@ import PageNotFound from './pages/PageNotFound';
 function App() {
   return (
     <div >
-      <BrowserRouter>
+      <HashRouter>
       <Routes>
         <Route path="/" element={<Home/>} />
 
@@ -21,7 +21,7 @@ function App() {
         <Route path="*" element={<PageNotFound />} />
 
       </Routes>
-      </BrowserRouter>
+      </HashRouter>
     
     </div>
   );
