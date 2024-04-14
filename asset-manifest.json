@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Restaurant/static/css/main.b154410e.css",
-    "main.js": "/Restaurant/static/js/main.e99a1d4f.js",
-    "static/js/787.091bb736.chunk.js": "/Restaurant/static/js/787.091bb736.chunk.js",
+    "main.js": "/Restaurant/static/js/main.9cf6b239.js",
+    "static/js/787.cefe34ed.chunk.js": "/Restaurant/static/js/787.cefe34ed.chunk.js",
     "static/media/Chola.jpg": "/Restaurant/static/media/Chola.6a545d4d0a80d9813949.jpg",
     "static/media/Idli.jpg": "/Restaurant/static/media/Idli.522a7f630d44eee4955d.jpg",
     "static/media/Gujrati.jpg": "/Restaurant/static/media/Gujrati.fb82bdc96461bc35c50f.jpg",
@@ -12,11 +12,11 @@
     "static/media/Paneer.jpg": "/Restaurant/static/media/Paneer.1e3853103b6fd5837dff.jpg",
     "index.html": "/Restaurant/index.html",
     "main.b154410e.css.map": "/Restaurant/static/css/main.b154410e.css.map",
-    "main.e99a1d4f.js.map": "/Restaurant/static/js/main.e99a1d4f.js.map",
-    "787.091bb736.chunk.js.map": "/Restaurant/static/js/787.091bb736.chunk.js.map"
+    "main.9cf6b239.js.map": "/Restaurant/static/js/main.9cf6b239.js.map",
+    "787.cefe34ed.chunk.js.map": "/Restaurant/static/js/787.cefe34ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b154410e.css",
-    "static/js/main.e99a1d4f.js"
+    "static/js/main.9cf6b239.js"
   ]
 }
